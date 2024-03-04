@@ -232,3 +232,8 @@ kbd {
 .result-no-output {
     font-style: italic;
 }
+
+
+body.sidebar-hidden #sidebar{
+    display: none;
+}
